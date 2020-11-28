@@ -8,7 +8,19 @@ Each day is separated into it's own Go program.
 
 # [Day 1](https://adventofcode.com/2015/day/1)
 
-_**[TBD]**_
+# [Day 1](https://adventofcode.com/2015/day/1)
+To run Day 1, simply:
+```
+$ cd day1
+$ go build
+$ ./day1
+```
+**or**
+
+```
+$ cd day1
+$ go run day1
+```
 
 # [Day 2](https://adventofcode.com/2015/day/2)
 
