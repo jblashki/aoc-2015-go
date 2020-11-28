@@ -7,8 +7,6 @@ Main source code for Advent of Code solutions for [2015](https://adventofcode.co
 Each day is separated into it's own Go program.
 
 # [Day 1](https://adventofcode.com/2015/day/1)
-
-# [Day 1](https://adventofcode.com/2015/day/1)
 To run Day 1, simply:
 ```
 $ cd day1
